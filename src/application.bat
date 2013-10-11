@@ -1,4 +1,7 @@
-### Application.bash - 201x - ricou ###
-echo "Copyright Company - 201x"
-echo "Build : 10:00"
-echo "version 1.2.0
+### Application.bash - 201x - votre nom ###
+version = "2.0.0"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
+
